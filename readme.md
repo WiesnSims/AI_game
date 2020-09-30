@@ -1,3 +1,12 @@
+# AI for Tetris
+### INN3 Projekt
+
+
+
+
+
+
+
 # Tetr.js
 
 ### Default Controls:
